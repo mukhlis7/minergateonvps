@@ -1,1 +1,1 @@
-minergate-cli --user YOUR_EMAIL --xmr 4
+minergate-cli --user mukhlisg7@gmail.com --xmr 4
